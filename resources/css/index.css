@@ -1,0 +1,12 @@
+body{
+  text-align: center;
+  background-color: Black;
+}
+.verdana-white{
+  font-family: Verdana;
+  color: white;
+}
+.mainheader{
+  font-weight: normal;
+  font-size: 50px;
+}
