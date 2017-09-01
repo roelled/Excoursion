@@ -1,12 +1,27 @@
 body{
   text-align: center;
   background-color: Black;
-}
-.verdana-white{
   font-family: Verdana;
+}
+.white{
   color: white;
 }
 .mainheader{
   font-weight: normal;
-  font-size: 50px;
+  font-size: 39px;
+}
+.downloadlink{
+  color: Aquamarine;
+  font-size: 16px;
+}
+.secondheader{
+  font-size: 30px;
+  font-weight: 300;
+}
+.grey-fontsize{
+  color: gray;
+  font-size: 21px;
+}
+.right{
+  text-align: right;
 }
